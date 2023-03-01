@@ -1,3 +1,3 @@
 # css_1
 ![screenshot](werk1.png)
-[I'm an inline-style link]()
+[demo](https://mohacin.github.io/css_1/)
